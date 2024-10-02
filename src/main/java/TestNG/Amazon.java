@@ -19,5 +19,9 @@ public class Amazon extends Basebrowser{
 
 	}
 
+	@Test
+	public void verifythexyz() {
+	System.out.println("sunny");
+	}
 
 }
